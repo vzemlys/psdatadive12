@@ -8,7 +8,7 @@ pabandyta atsakyti renginio metu. Buvo pateikti keli vizualizacijos variantai:
 1. Šiame grafike matome kaip keitėsi rinkėjų pasirinkimas tarp kairiųjų ir
 dešiniųjų kiekvienuose rinkimuose. 
 
-![grafike](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/svytuokle.jpeg) 
+![grafike](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/svytuokle.jpg) 
 
 Matome kad Lietuvoje rinkėjai labiau linkę
 balsuoti už kairiuosius. Aišku reikia atsiminti, kad Lietuvoje skaidymas į
