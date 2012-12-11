@@ -15,5 +15,5 @@ devyniose ir aštuoniose rinkimų apygardose, o per šiuos rinkimus tokių apyga
 jau buvo dvidešimt keturios. Tarp tokių apygardų dažniausiai patenka Vilniaus
 miestui bei didesniems miestams priklausančios apygardos. 
 
-Analizę iliustruojančią prezentaciją galite rasti [šiame faile](). Analizę atliko Mantas
+Analizę iliustruojančią prezentaciją galite rasti [šiame faile](https://github.com/vzemlys/psdatadive12/raw/master/Negaliojantys/NegaliojantysBiuleteniai.pdf). Analizę atliko Mantas
 Puida.

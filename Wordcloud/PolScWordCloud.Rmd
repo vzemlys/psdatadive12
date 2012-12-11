@@ -1,0 +1,46 @@
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+library(foreach)
+options(stringsAsFactors = FALSE)
+metai1 <- c(2012, 2008, 2000)
+```
+### 2012
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+for(metai in metai1){
+    print(metai)
+    p1 <- paste("kandidatasDaugiamandate",metai ,"_kandidatasitem.csv",sep="")
+    p2 <- paste("kandidatoDeklaracija", metai, "_kandidatodeklaracija.csv", sep="")
+    p3 <- paste("vienmandate", metai, "_kandidatorezultaiapygardojeitem.csv", sep="")
+    kitemdm <- read.csv(p1,fileEncoding="utf8")
+    kdekl <- read.csv(p2,fileEncoding="utf8")
+    kapy <- read.csv(p3,fileEncoding="utf8")
+    
+    subsp <- function(x) gsub("\\s+"," ", x)
+    library(plyr)
+    kdekl <- transform(kdekl, kandidatas=subsp(tolower(kandidatas)))
+    kapy <- transform(kapy, kandidatas=subsp(tolower(kandidatas)))
+    kitemdm <- transform(kitemdm, kandidatas=subsp(tolower(kandidatas)))
+    
+    mergek <-function(d1, d2) merge(d1, d2, by="kandidatas")
+    d <- Reduce("mergek", list(kdekl, kapy), kitemdm)
+    d$nuo_galiojanciu_biuleteniu <- as.numeric(gsub(",","\\.",(gsub("%", "", d$nuo_galiojanciu_biuleteniu))))/100
+    
+    words <- str_trim(gsub("\\s+", " ", (gsub("[0-9;-]+"," ",toupper(d$issilavinimas)))))
+    
+    svor <- d$nuo_galiojanciu_biuleteniu
+    
+    wlist <- str_split(words, " ")
+    w.fin <- do.call("c", apply(cbind(svor, sapply(wlist, length)), 1, function(x) rep(x[1], x[2])))
+    w <- do.call("c", wlist)
+    w <- gsub("\\(|\\)|,|\\.|\"","",w)
+    y <- ddply(data.frame(w, w.fin, ind=1), "w", summarise, vote=mean(w.fin), count=sum(ind))
+    y <- y[ !y$w %in% c("IR"," ","", "-"),]
+    library(wordcloud)
+    names(y) <- c("žodis", "tikimybė", "dažnis")
+    y <- subset(y, dažnis>20)
+    wordcloud(y$žodis, y$dažnis)
+    print(y[order(-y$dažnis)[1:10],])
+    wordcloud(y$žodis, y$tikimybė)
+    print(y[order(-y$tikimybė)[1:10],])
+}
+```
