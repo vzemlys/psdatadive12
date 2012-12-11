@@ -10,8 +10,8 @@ Peržiūrėti rezultatus galite [čia](http://dydra.com/graphity/lithuanian-poli
 
 Šio projekto dalyviai:
 
-    Mantas Zimnickas sirexas@gmail.com
-    Martynas Jusevičius martynas@graphity.org
-    Džiugas Tornau dziugas@graphity.org
+    Mantas Zimnickas 
+    Martynas Jusevičius
+    Džiugas Tornau 
 
 

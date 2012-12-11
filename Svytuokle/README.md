@@ -24,4 +24,23 @@ tikslius grafiko duomenis rasite [šiame
 faile](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/pozicija_opozicija.xls).
 
 Taip pat buvo pabandyta pažiūrėti kaip ištikimai kiekviena apygarda balsuoja už
-vienos partijos kandidatus. 
+vienos partijos kandidatus. Kad būtų lengviau įžiūrėti dėsningumus, partijos
+buvo suskirstytos į blokus. Tada kiekvienai apygardai buvo suskaičiuota kiek
+kartų iš vienų rinkimų į kitus pasikeitė I ture apygardoje laimėjusios partijos
+blokas. Gautas rezultatas pavaizduotas ant [Lietuvos
+žemėlapio](https://github.com/vzemlys/psdatadive12/blob/master/Svytuokle/rinkeju-istikimumas.png).
+Matome kad Lietuvos rinkėjai nepasižymi didele ištikimybe. Neištikimiausi yra
+Šiaulių, Panevėžio ir Klaipėdos miestų rinkėjai. Ištikimesni yra Kauno ir
+Vilniaus miestų rinkėjai. Ištikimiausi rinkėjai gyvena pasienyje:
+Šilutės-Pagėgių bei Vilniaus-Šalčininkų rinkimų apygardose. Kaip atlikti
+skaičiavimai galite pamatyti šiame [faile](https://github.com/vzemlys/psdatadive12/blob/master/Svytuokle/40istikimumas.R).
+
+Analizę darė (abėcėlės tvarka)
+    Giedrius Graževičius
+    Justas Godliauskas
+    Kęstutis Malinauskas
+
+
+
+
+
