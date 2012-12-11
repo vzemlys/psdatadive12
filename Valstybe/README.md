@@ -11,11 +11,13 @@ kitas šakas - pradinei institucijai pavaldžias institucijas. Šakas galima
 suskleisti taip susikoncrentruojant tik ties dominančiais institucijų ryšiais.
 
 Rezultatų pristatyme taip buvo pateikta keletas kitokių valstybės aparato medžio
-vaizdų. Šiame
-[grafike](https://github.com/vzemlys/psdatadive12/raw/master/Valstybe/Screen%20Shot%202012-12-09%20at%2011.31.37%20AM.png)
-matome "išplokštintą" medį. O
-[šiame](https://github.com/vzemlys/psdatadive12/raw/master/Valstybe/Screen%20Shot%202012-12-09%20at%2011.32.12%20AM.png)
-kiekviena institucija pavaizduota kaip didelė ląstelė, o jos padaliniai kaip
+vaizdų. Šiame grafike matome "išplokštintą" medį. 
+
+![grafike](https://github.com/vzemlys/psdatadive12/raw/master/Valstybe/Screen%20Shot%202012-12-09%20at%2011.31.37%20AM.png)
+
+O šiame kiekviena institucija pavaizduota kaip didelė ląstelė, o jos padaliniai kaip
 mažesnės ląstelės didelės ląstelės viduje.
+
+![šiame](https://github.com/vzemlys/psdatadive12/raw/master/Valstybe/Screen%20Shot%202012-12-09%20at%2011.32.12%20AM.png)
 
 Analizę atliko Viktorija Trubačiūtė ir Petras Zdanavičius.
