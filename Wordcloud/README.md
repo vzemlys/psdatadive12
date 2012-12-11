@@ -23,11 +23,11 @@ faile](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/wordcloudED.
 
 Čia matome žodžių debesis iš visų kandidatų duomenų:
 
-[2000a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2000wca.png)
+![2000a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2000wca.png)
 
-[2008a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2008wca.png)
+![2008a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2008wca.png)
 
-[2012a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2012wca.png)
+![2012a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2012wca.png)
 
 Iš jų matome, kad dažniausiai kandidatai
 savo išsilavinime mini žodžius "Aukštasis", "Vilniaus" ir "Universitetas". 
@@ -35,11 +35,11 @@ savo išsilavinime mini žodžius "Aukštasis", "Vilniaus" ir "Universitetas".
 Vaizdas pasikeičia atsižvelgiant į tai kokie kandidatai gavo 
 daugiausiai balsų.
 
-[2000v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2000wcv.png)
+![2000v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2000wcv.png)
 
-[2008v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2008wcv.png)
+![2008v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2008wcv.png)
 
-[2012v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2012wcv.png)
+![2012v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2012wcv.png)
 
 
 Lyginant
