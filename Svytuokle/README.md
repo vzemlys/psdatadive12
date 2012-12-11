@@ -50,10 +50,8 @@ Vilniaus miestų rinkėjai. Ištikimiausi rinkėjai gyvena pasienyje:
 Šilutės-Pagėgių bei Vilniaus-Šalčininkų rinkimų apygardose. Kaip atlikti
 skaičiavimai galite pamatyti šiame [faile](https://github.com/vzemlys/psdatadive12/blob/master/Svytuokle/40istikimumas.R).
 
-Analizę darė (abėcėlės tvarka)
-    Giedrius Graževičius
-    Justas Godliauskas
-    Kęstutis Malinauskas
+Analizę darė (abėcėlės tvarka) Giedrius Graževičius, Justas Godliauskas,
+Kęstutis Malinauskas.
 
 
 
