@@ -8,7 +8,7 @@ pabandyta atsakyti renginio metu. Buvo pateikti keli vizualizacijos variantai:
 1. Šiame grafike matome kaip keitėsi rinkėjų pasirinkimas tarp kairiųjų ir
 dešiniųjų kiekvienuose rinkimuose. 
 
-![grafike](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/svytuokle.pdf) 
+![grafike](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/svytuokle.png) 
 
 Matome kad Lietuvoje rinkėjai labiau linkę
 balsuoti už kairiuosius. Aišku reikia atsiminti, kad Lietuvoje skaidymas į
@@ -19,7 +19,7 @@ grafiką.
 
 2. Šiame grafike matosi kaip nukenčia valdžioje esančios partijos. 
 
-![grafike](https://github.com/vzemlys/psdatadive12/blob/master/Svytuokle/balsavimas_uz_pozicija_opozicija.png) 
+![grafike](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/balsavimas_uz_pozicija_opozicija.png) 
 
 Įdomu pastebėti, kad šiuose rinkimuose opozicijos pergalė palyginama su 1996 metų
 įvykusiu pozicijos sutriuškinimu. Procentinis skirtumas 1996 tarp opozicijos ir
@@ -37,7 +37,7 @@ kartų iš vienų rinkimų į kitus pasikeitė I ture apygardoje laimėjusios pa
 blokas. Gautas rezultatas pavaizduotas ant Lietuvos žemėlapio:
 
 ![Lietuvos
-žemėlapio](https://github.com/vzemlys/psdatadive12/blob/master/Svytuokle/rinkeju-istikimumas.png).
+žemėlapio](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/rinkeju-istikimumas.png).
 
 Matome kad Lietuvos rinkėjai nepasižymi didele ištikimybe. Neištikimiausi yra
 Šiaulių, Panevėžio ir Klaipėdos miestų rinkėjai. Ištikimesni yra Kauno ir
