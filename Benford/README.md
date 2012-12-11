@@ -19,7 +19,8 @@ reikia neužmiršti, kad už kandidatų deklaracijų duomenų patikimumą atsako
 patys kandidatai, todėl jose gali būti klaidų, kurios taip pat gali iškreipti
 atitikimą Benford'o dėsniui.
 
-Šiame kataloge galite rasti [Excel failą]() kuriame matosi kaip buvo atlikti
-skaičiavimai bei renginio metu darytą [prezentaciją]().
+Šiame kataloge galite rasti [Excel
+failą](https://github.com/vzemlys/psdatadive12/raw/master/Benford/Assets%20benford%20analysis.xls) kuriame matosi kaip buvo atlikti
+skaičiavimai bei renginio metu darytą [prezentaciją](https://github.com/vzemlys/psdatadive12/raw/master/Benford/Benford.pptx).
 
 Darbą atliko Julija Kosareva ir Mangirdas Adomaitis. 
