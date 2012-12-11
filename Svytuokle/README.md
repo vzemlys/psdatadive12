@@ -32,7 +32,12 @@ faile](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/pozicija_opo
 
 Taip pat buvo pabandyta pažiūrėti kaip ištikimai kiekviena apygarda balsuoja už
 vienos partijos kandidatus. Kad būtų lengviau įžiūrėti dėsningumus, partijos
-buvo suskirstytos į blokus. Tada kiekvienai apygardai buvo suskaičiuota kiek
+buvo suskirstytos į blokus. Blokų pasiskirstymą rasite [šiame
+faile](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/Partijos.ods),
+o suskirstymą motyvuojančią prezentaciją
+[šiame](https://github.com/vzemlys/psdatadive12/raw/master/Svytuokle/Pristatymas.pdf).
+
+Tada kiekvienai apygardai buvo suskaičiuota kiek
 kartų iš vienų rinkimų į kitus pasikeitė I ture apygardoje laimėjusios partijos
 blokas. Gautas rezultatas pavaizduotas ant Lietuvos žemėlapio:
 
