@@ -8,8 +8,11 @@ Seimo rinkimų, kandidatų deklaracijų ir kiti vieši su politika susiję duome
 
 Šiame puslapyje yra skelbiami renginio metu gauti rezultatai. Renginyje dalyviai
 susiskirstė į komandos, kiekvienos komandos rezultatai yra atskirame kataloge.
+Komandos darbo aprašymas yra katalogo ```README.md``` faile.
 
-Komandų rezultatai buvo sukurti interneto puslapiai, paruošti grafikai bei
-prezentacijos. 
+[Geo]()
+
+[]()
+
 
 

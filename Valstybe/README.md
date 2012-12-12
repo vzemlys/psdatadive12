@@ -4,7 +4,7 @@ Valstybės aparato vizualizacija
 Visi žinome, kad yra gausybė valdžios institucijų. Bet kaip jos susiję ir kiek
 jų iš viso yra nėra lengva sužinoti. Renginio metu buvo pabandyta surinkti visa
 viešai prieinama informacija apie valstybės aparatą ir pabandyta pavaizduoti.
-Vienas iš vizualizacijos pavyzdžių galima rasti šiuo
+Vieną iš vizualizacijos pavyzdžių galima rasti šiuo
 [adresu](http://pd12.petraszd.com). Šiame puslapyje valstybės aparato struktūra
 pavaizduota kaip medis. Kiekviena šaka yra institucija kuri išsiskleidžia į
 kitas šakas - pradinei institucijai pavaldžias institucijas. Šakas galima
