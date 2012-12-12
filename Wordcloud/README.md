@@ -17,15 +17,16 @@ buvo kandidatų gavusių daugiau balsų deklaracijose. Taip galima palyginti kok
 yra kandidatų išsilavinimas apskritai ir kokio išsilavinimo kandidatai gauna
 daugiausiai balsų. 
 
-Visus žodžių debesis galite pamatyti [šiame
-faile](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/wordcloudED.html)
-(reikia parsisiųsti ir atsidaryti). 
-
 Čia matome žodžių debesis iš visų kandidatų duomenų:
 
+### 2000 metų rinkimai
 ![2000a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2000wca.png)
 
+### 2008 metų rinkimai
+
 ![2008a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2008wca.png)
+
+### 2012 metų rinkimai
 
 ![2012a](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2012wca.png)
 
@@ -35,9 +36,15 @@ savo išsilavinime mini žodžius "Aukštasis", "Vilniaus" ir "Universitetas".
 Vaizdas pasikeičia atsižvelgiant į tai kokie kandidatai gavo 
 daugiausiai balsų.
 
+### 2000 metų rinkimai
+
 ![2000v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2000wcv.png)
 
+### 2008 metų rinkimai
+
 ![2008v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2008wcv.png)
+
+### 2012 metų rinkimai
 
 ![2012v](https://raw.github.com/vzemlys/psdatadive12/master/Wordcloud/2012wcv.png)
 
