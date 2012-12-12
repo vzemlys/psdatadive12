@@ -50,8 +50,10 @@ Vilniaus miestų rinkėjai. Ištikimiausi rinkėjai gyvena pasienyje:
 Šilutės-Pagėgių bei Vilniaus-Šalčininkų rinkimų apygardose. Kaip atlikti
 skaičiavimai galite pamatyti šiame [faile](https://github.com/vzemlys/psdatadive12/blob/master/Svytuokle/40istikimumas.R).
 
-Analizę darė (abėcėlės tvarka) Giedrius Graževičius, Justas Godliauskas,
-Kęstutis Malinauskas.
+Analizę darė (abėcėlės tvarka) [Giedrius
+Graževičius](http://www.linkedin.com/profile/view?id=155808034&authType=NAME_SEARCH&authToken=uEiu&locale=en_US&srchid=b9a4405d-bc57-4800-84a8-2ba9a5a442e9-0&srchindex=1&srchtotal=1&goback=%2Efps_PBCK_giedrius+gra%C5%BEevi%C4%8Dius_*1_*1_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&pvs=ps&trk=pp_profile_name_link),
+Justas Godliauskas,
+[Kęstutis Malinauskas](http://www.linkedin.com/profile/view?id=12384701&authType=NAME_SEARCH&authToken=S1Vd&locale=en_US&srchid=9821a6d6-86b1-4896-b58f-3e870f1abe33-0&srchindex=1&srchtotal=1&goback=%2Efps_PBCK_k%C4%99stutis+malinauskas_*1_*1_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&pvs=ps&trk=pp_profile_name_link).
 
 
 

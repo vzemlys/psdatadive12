@@ -20,4 +20,7 @@ mažesnės ląstelės didelės ląstelės viduje.
 
 ![šiame](https://github.com/vzemlys/psdatadive12/raw/master/Valstybe/Screen%20Shot%202012-12-09%20at%2011.32.12%20AM.png)
 
-Analizę atliko Viktorija Trubačiūtė ir Petras Zdanavičius.
+Analizę atliko [Viktorija
+Trubačiūtė](http://www.linkedin.com/profile/view?id=6220615&locale=en_US&trk=tyah2)
+ir [Petras Zdanavičius](http://petraszd.com/).
+

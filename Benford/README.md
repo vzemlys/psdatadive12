@@ -29,4 +29,7 @@ atitikimą Benford'o dėsniui.
 failą](https://github.com/vzemlys/psdatadive12/raw/master/Benford/Assets%20benford%20analysis.xls) kuriame matosi kaip buvo atlikti
 skaičiavimai bei renginio metu darytą [prezentaciją](https://github.com/vzemlys/psdatadive12/raw/master/Benford/Benford.pptx).
 
-Darbą atliko Julija Kosareva ir Mangirdas Adomaitis. 
+Darbą atliko [Julija
+Kosareva](http://www.linkedin.com/profile/view?id=49651719&authType=NAME_SEARCH&authToken=MgrQ&locale=en_US&srchid=a656338e-797f-4da0-be30-075e07581e23-0&srchindex=1&srchtotal=1&goback=%2Efps_PBCK_julija+kosareva_*1_*1_*1_*1_*1_*1_*2_*1_Y_*1_*1_*1_false_1_R_*1_*51_*1_*51_true_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&pvs=ps&trk=pp_profile_name_link)
+ir [Mangirdas Adomaitis](https://plus.google.com/104555059331096125594/posts). 
+

@@ -28,5 +28,7 @@ jau buvo dvidešimt keturios.
 Tarp tokių apygardų dažniausiai patenka Vilniaus
 miestui bei didesniems miestams priklausančios apygardos. 
 
-Analizę iliustruojančią prezentaciją galite rasti [šiame faile](https://github.com/vzemlys/psdatadive12/raw/master/Negaliojantys/NegaliojantysBiuleteniai.pdf). Analizę atliko Mantas
-Puida.
+Analizę iliustruojančią prezentaciją galite rasti [šiame
+faile](https://github.com/vzemlys/psdatadive12/raw/master/Negaliojantys/NegaliojantysBiuleteniai.pdf).
+Analizę atliko [Mantas
+Puida](http://www.linkedin.com/profile/view?id=2494654&locale=en_US&trk=tyah).

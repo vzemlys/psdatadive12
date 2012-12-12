@@ -22,13 +22,16 @@ Lietuvos žemėlapyje kiekviena apylinkė buvo pavaizduota skirtingos spalvos
 tašku. Spalva parinkta pagal toje apylinkėje daugiausiai balsų surinkusią
 partiją:
 
-    1. Darbo partija - mėlyna
-    2. Socialdemokratai - raudona
-    3. Konservatoriai - žalia
-    4. Tvarkos ir teisingumo partija - geltona
-    5. Liberalai - oranžine
-    6. Lietuvos lenkų rinkimų akcija - rožine
-    7. Drąsos kelio partija - violetine 
+1. Darbo partija - mėlyna
+2. Liberalų ir centro sąjunga - pilka
+3. Lietuvos Respublikos liberalų sąjūdis - oranžine
+4. Lietuvos lenkų rinkimų akcija - rožine
+5. Lietuvos socialdemokratų partija - raudona
+6. Lietuvos valstiečių ir žaliųjų sąjunga - šviesiai žalia
+7. Partija Tvarka ir teisingumas - geltona
+8. Tėvynės sąjunga - Lietuvos krikščionys demokratai - tamsiai žalia 
+9. „Drąsos kelias“ politinė partija - rožine
+    
 
 Savivaldybių spalvos buvo atitinkamai parinktos pagal norimą parametrą. Šiame
 grafike tamsesnė spalva indikuoja didesnį nedarbo lygį esantį savivaldybėje.

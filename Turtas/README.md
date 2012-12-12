@@ -22,4 +22,4 @@ arba
 
 
 
-Analizę padarė Aurimas Gaižauskas.
+Analizę padarė [Aurimas Gaižauskas](http://www.linkedin.com/in/gaizauskas).
