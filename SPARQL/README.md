@@ -5,8 +5,9 @@ Analizuojant duomenis nemažai laiko užtrunka juos tvarkant. Šios problemos
 nebūtų jeigu duomenys būtų pateikiami patogiu formatu. Nors vyriausioji rinkimų
 komisija skelbia visus duomenis apie rinkimus ir kandidatus viešai, tokiu
 formatu esančios informacijos neįmanoma iš karto analizuoti.  Vienas problemos
-sprendimas [Sparql](http://en.wikipedia.org/wiki/Sparql) 
-užklausų pagrindu buvo pateiktas renginio [metu](http://dydra.com/graphity/lithuanian-politics).
+sprendimas naudojantis [Linked Data](http://en.wikipedia.org/wiki/Linked_data),
+[RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) ir [Sparql](http://en.wikipedia.org/wiki/Sparql) 
+technologijas buvo pateiktas renginio [metu](http://dydra.com/graphity/lithuanian-politics). 
 
 Be importuotų duomenų buvo sukurtos kelios pavyzdinės užklausos, kurių pagalba
 pavyzdžiui iš karto galima išrūšiuoti partijas pagal vidutinį joms priklausančių
