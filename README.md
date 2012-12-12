@@ -10,9 +10,22 @@ Seimo rinkimų, kandidatų deklaracijų ir kiti vieši su politika susiję duome
 susiskirstė į komandos, kiekvienos komandos rezultatai yra atskirame kataloge.
 Komandos darbo aprašymas yra katalogo ```README.md``` faile.
 
-[Geo]()
+[Benfordo dėsnis](https://github.com/vzemlys/psdatadive12/tree/master/Benford)
 
-[]()
+[Geografinė rinkimų analizė](https://github.com/vzemlys/psdatadive12/tree/master/Geo)
 
+[Negaliojančių biuletenių analizė](https://github.com/vzemlys/psdatadive12/tree/master/Negaliojantys)
+
+[Kandidato savybių lemiančių išrinkimą analizė](https://github.com/vzemlys/psdatadive12/tree/master/Savybes)
+
+[Rinkimų duomenys patogiu formatu](https://github.com/vzemlys/psdatadive12/tree/master/SPARQL)
+
+[Rinkimų švytuoklė ir rinkėjų pastovumas](https://github.com/vzemlys/psdatadive12/tree/master/Svytuokle)
+
+[Kandidatų turto vizualizacija](https://github.com/vzemlys/psdatadive12/tree/master/Turtas)
+
+[Valstybės aparato vizualizacija](https://github.com/vzemlys/psdatadive12/tree/master/Valstybe)
+
+[Kandidatų išsilavinimo teksto analizė](https://github.com/vzemlys/psdatadive12/tree/master/Wordcloud)
 
 
