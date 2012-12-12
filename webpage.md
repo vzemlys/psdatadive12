@@ -200,11 +200,11 @@ puslapyje](http://github.com/vzemlys/psdatative12). Kiekvieana analizė yra atsk
 Analizės aprašymas yra katalogo ```README.md``` faile, čia yra nuorodos į
 kiekvieną analizę atskirai:
 
- - [Benfordo dėsnis](https://github.com/vzemlys/psdatadive12/tree/master/Benford)
+- [Benfordo dėsnis](https://github.com/vzemlys/psdatadive12/tree/master/Benford)
 
- - [Geografinė rinkimų analizė](https://github.com/vzemlys/psdatadive12/tree/master/Geo)
+- [Geografinė rinkimų analizė](https://github.com/vzemlys/psdatadive12/tree/master/Geo)
 
- - [Negaliojančių biuletenių analizė](https://github.com/vzemlys/psdatadive12/tree/master/Negaliojantys)
+- [Negaliojančių biuletenių analizė](https://github.com/vzemlys/psdatadive12/tree/master/Negaliojantys)
 
 - [Kandidato savybių lemiančių išrinkimą analizė](https://github.com/vzemlys/psdatadive12/tree/master/Savybes)
 
