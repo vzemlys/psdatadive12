@@ -195,4 +195,26 @@ mažesnės ląstelės didelės ląstelės viduje.
 
 ![šiame](https://github.com/vzemlys/psdatadive12/raw/master/Valstybe/Screen%20Shot%202012-12-09%20at%2011.32.12%20AM.png)
 
+Daugiau detalių apie kievieną darytą analizę galite rasite [šiame
+puslapyje](http://github.com/vzemlys/psdatative12). Kiekvieana analizė yra atskirame kataloge.
+Analizės aprašymas yra katalogo ```README.md``` faile, čia yra nuorodos į
+kiekvieną analizę atskirai:
+
+ - [Benfordo dėsnis](https://github.com/vzemlys/psdatadive12/tree/master/Benford)
+
+ - [Geografinė rinkimų analizė](https://github.com/vzemlys/psdatadive12/tree/master/Geo)
+
+ - [Negaliojančių biuletenių analizė](https://github.com/vzemlys/psdatadive12/tree/master/Negaliojantys)
+
+- [Kandidato savybių lemiančių išrinkimą analizė](https://github.com/vzemlys/psdatadive12/tree/master/Savybes)
+
+- [Rinkimų duomenys patogiu formatu](https://github.com/vzemlys/psdatadive12/tree/master/SPARQL)
+
+- [Rinkimų švytuoklė ir rinkėjų pastovumas](https://github.com/vzemlys/psdatadive12/tree/master/Svytuokle)
+
+- [Kandidatų turto vizualizacija](https://github.com/vzemlys/psdatadive12/tree/master/Turtas)
+
+- [Valstybės aparato vizualizacija](https://github.com/vzemlys/psdatadive12/tree/master/Valstybe)
+
+- [Kandidatų išsilavinimo teksto analizė](https://github.com/vzemlys/psdatadive12/tree/master/Wordcloud)
 
