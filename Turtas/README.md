@@ -9,7 +9,7 @@ Kandidatai į Seimą turėjo pateikti savo turto deklaracijas.
 Šiame grafike pavaizduotas visų kandidatų turtas. Visi kandidatai išdėstyti skritulio
 išorėje. Skritulio spindulys yra didžiausio kandidato turto reikšmė. Kiekvieno
 kandidato turtas išreikštas spinduliu, kuo ilgesnis spindulys tuo didesnis
-turtas logaritminėje skalėje. 
+turtas. Išrinkti kandidatai yra paryškinti kita spalva.  
 
 Pilną vizualizacijos failą rasite
 [čia](https://github.com/vzemlys/psdatadive12/raw/master/Turtas/turtinis_kandidatu_pasiskirstymas.pdf).
